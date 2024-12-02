@@ -1,0 +1,3 @@
+C:/Users/chmux/CLionProject/project8_2/cmake-build-debug/CMakeFiles/project8_2.dir
+C:/Users/chmux/CLionProject/project8_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/chmux/CLionProject/project8_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
